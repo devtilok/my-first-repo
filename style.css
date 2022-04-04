@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass&display=swap');
+
+
+.header-sec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:rgba(45, 37, 160, 1) ;
+    padding: 100px 0px 100px 0px;
+  
+}
+
+
+p{
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    font-family: 'Overpass', sans-serif;
+    margin-bottom: 50px;
+}
+h1{
+    font-family: 'Overpass', sans-serif;
+    color: rgba(255, 255, 255, 1);
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 88px;
+}
+
+.button{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(224, 44, 109, 1);
+    padding: 15px 35px 15px 35px;
+    font-size: 16px;
+    font-weight: 500;
+    border: 0;
+    border-radius: 7px;
+    
+}
+
+
+
+.highlights{
+    display: flex;;
+    justify-content: center;
+    padding-left: 13%;
+    margin-top: 80px;
+  
+}
+.header-div{
+    margin-right: 80px;
+}
+.banner-img{
+    width: 750px ;
+    margin: auto;
+}
+
+.copa-p{
+    margin-right: 140px;
+    color: rgb(14, 13, 13);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    font-family: 'Overpass', sans-serif;
+    margin-bottom: 50px;
+}
+
+.highlights-inner{
+    width: 50%;
+    margin-bottom: 100px;
+}
+.highlights-inner img{
+   width: 567px;
+   height: 427px;
+}
+h2{
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 40px;
+}
